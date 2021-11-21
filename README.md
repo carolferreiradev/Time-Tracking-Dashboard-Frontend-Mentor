@@ -14,5 +14,5 @@ Tecnologias
 - Styled-Componensts
 
 Links úteis
-- Link para o desafio:
-- Site do projeto em funcionamento:
+- Link para o desafio: https://www.frontendmentor.io/solutions/time-tracking-dashboard-responsive-frontendmentor--S-DzEvMN
+- Site do projeto em funcionamento: https://time-tracking-dashboard-frontend-mentor-ashy.vercel.app/
