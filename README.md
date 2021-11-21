@@ -2,7 +2,11 @@
 
 Projeto para treinamento de HTML e CSS originário do site Frontend Mentor.
 
+Desktop
 ![image](https://github.com/carolferreiradev/Time-Tracking-Dashboard-Frontend-Mentor/blob/master/public/assets/github.png)
+
+Mobile
+![image](https://github.com/carolferreiradev/Time-Tracking-Dashboard-Frontend-Mentor/blob/master/public/assets/github-mobile.png)
 
 
 Tecnologias
